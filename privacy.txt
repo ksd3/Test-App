@@ -1,0 +1,1 @@
+This app uses a bunch of packages required to run an Android App. As such, some of your data may be sent elsewhere.
